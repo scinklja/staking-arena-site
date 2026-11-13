@@ -1,0 +1,132 @@
+{
+  "sourceCommit": "21801a0e6cc6245a57010f43b79cbd928176994b",
+  "reviewedBase": "5777a9995d3e8ffee6c7339f8abb950192f5b453",
+  "network": "chipnet",
+  "v3Route": "#/v3",
+  "mainnetEnabled": false,
+  "covenantArtifactsChanged": false,
+  "walletTransactionVerified": false,
+  "builtAt": "2026-11-13T21:32:36.165269+00:00",
+  "assets": [
+    {
+      "path": "arena.svg",
+      "sha256": "c453d03bd8dbbd9cfe0bbde2451d7cfd830d90cfcfffb346252557fd268208bf",
+      "bytes": 270
+    },
+    {
+      "path": "assets/GeneralizedAssets-CaamVH0O.js",
+      "sha256": "a050c1032ad601f9d75dab1969b5e36ecb8aa0aa21be9abef2cb69765a91839c",
+      "bytes": 9140
+    },
+    {
+      "path": "assets/GeneralizedVaults-DuG-Bxr4.js",
+      "sha256": "7b9f2f6a643e98b5c1d22094eb3e3644684031fab4e355d26a7ea9a89391613f",
+      "bytes": 120
+    },
+    {
+      "path": "assets/GeneralizedVaults-fiphaBA7.js",
+      "sha256": "b85b81f5d9030f53703778b37bd46bc9d0887a8f3853b4162a1c242c80cabf58",
+      "bytes": 2343
+    },
+    {
+      "path": "assets/V3Arena-JA5DB52v.js",
+      "sha256": "eefb1df5fa9b0df7406f7f6f8ac145db1f49c2fb34e57373244b56bac952ffb0",
+      "bytes": 18768
+    },
+    {
+      "path": "assets/app-entry-2y-DUsMX.js",
+      "sha256": "17bd5fbfbb6cd1edf7905c0d2d117ab3072b1ba8d869e7e8fb9bdaf7bb2f7440",
+      "bytes": 785090
+    },
+    {
+      "path": "assets/app-entry-CSVIGMzA.css",
+      "sha256": "edb69f3df5eb40e5c5ec86d9f2eaa470dff4f18a00da2ebf8540cb0cf6ec846a",
+      "bytes": 9985
+    },
+    {
+      "path": "assets/arena.worker-BsHklFFg.js",
+      "sha256": "48ad4205548886d76bc9e872a3b2eecd212f5a9b241458fb8fab1e8d5215af77",
+      "bytes": 688941
+    },
+    {
+      "path": "assets/createAssets-B6UVP0Mg.js",
+      "sha256": "c44df901367018347d248909959ed14854e5f72407e18e2756111a3664c3dbac",
+      "bytes": 139188
+    },
+    {
+      "path": "assets/electrum-wallet-BAJIoOhl.js",
+      "sha256": "2033244fb6c47ad13fb5338398c6732058eac35087d6f3d942252102ed7905b2",
+      "bytes": 282435
+    },
+    {
+      "path": "assets/index-C5mEkRE-.js",
+      "sha256": "7370099d1d041489ddeb71f32ba876dfe7db3d9b350c7004dd1ffef5b0f17108",
+      "bytes": 1777
+    },
+    {
+      "path": "assets/indexer-7KKv9YpT.js",
+      "sha256": "fcbbb9d1dfc76531b38618dba32fb8ab91f937c6f455af211730e45031113be4",
+      "bytes": 53
+    },
+    {
+      "path": "assets/indexer-BXSTnHES.js",
+      "sha256": "a765f059f3a07f4f387065d70467a937e3891309912bf96a32c7e863a399913f",
+      "bytes": 45900
+    },
+    {
+      "path": "assets/indexer.bootstrap.worker-C2rXK4tM.js",
+      "sha256": "434bc4698b87ecf9c5bf2c33d8a47baa739f5cafba66f8621eef4f9b08161f64",
+      "bytes": 628
+    },
+    {
+      "path": "assets/keeper-BRelbEv1.js",
+      "sha256": "6fd3ba94f13a054c5b10fc681f950104b15e433b7ea04353dbf0d8a41b7c843a",
+      "bytes": 584
+    },
+    {
+      "path": "assets/model-_T7ZtZtD.js",
+      "sha256": "51b992ea1243a7129b789a60830a31b2b6892f19fc1535b32cff2d48e9c7989b",
+      "bytes": 1685
+    },
+    {
+      "path": "assets/preload-helper-DclECHGd.js",
+      "sha256": "8674df70cbffd5753771a8dd5b08ac3b6ec29c1170468e46848760a0ffeea550",
+      "bytes": 1630
+    },
+    {
+      "path": "assets/registry-R-0oSpMz.js",
+      "sha256": "94cb2d92932ea5be58721295f5b4ccc768e1a1f2a6f6610874d3f70dffd32dfc",
+      "bytes": 378307
+    },
+    {
+      "path": "assets/rolldown-runtime-WkwZ5CU-.js",
+      "sha256": "2629f2ad3cb75a57d98de697127f5af7d777ef572bbcdfa6e3ce8f438cd4527e",
+      "bytes": 599
+    },
+    {
+      "path": "assets/v3.worker-DUTsgANd.js",
+      "sha256": "99dbed3d0ee89b04051702bf655b315bac3cc8652c904cce47d94133e29debf3",
+      "bytes": 711971
+    },
+    {
+      "path": "assets/v3Client-Bd5SvBLA.js",
+      "sha256": "8572efe4568bad23dce8c2c6f2a887fe991acd7688244a1e93f7bba49e6fae61",
+      "bytes": 2369
+    },
+    {
+      "path": "assets/wallet-CPjthZGA.js",
+      "sha256": "f5f5a1035d0ad9eaaa4512f5b0683b33c15c05b8d8fd7e5663f94cbf98b4fa5d",
+      "bytes": 12226
+    },
+    {
+      "path": "assets/wallet.worker-CIHbSpAb.js",
+      "sha256": "e8c8589d8c5afb091622d3d1169f7e7096ace1e04aa176cb4dd6dbcde40acf0f",
+      "bytes": 43695
+    },
+    {
+      "path": "index.html",
+      "sha256": "5a867523645e47592e5d397999c7b3733e2c7af43a5dbfde85c74baca4281acb",
+      "bytes": 1214
+    }
+  ]
+}

@@ -1,12 +1,21 @@
 {
-  "sourceCommit": "21801a0e6cc6245a57010f43b79cbd928176994b",
-  "reviewedBase": "5777a9995d3e8ffee6c7339f8abb950192f5b453",
+  "sourceCommit": "dd143e306f989d8478906e603162c6c6882f5a71",
   "network": "chipnet",
   "v3Route": "#/v3",
+  "directGenesis": true,
+  "assetCombinations": [
+    "bch-bch",
+    "bch-token",
+    "token-bch",
+    "token-token"
+  ],
   "mainnetEnabled": false,
   "covenantArtifactsChanged": false,
   "walletTransactionVerified": false,
-  "builtAt": "2026-11-13T21:32:36.165269+00:00",
+  "liveTransactionsInitiated": false,
+  "builtAt": "2026-11-14T08:14:30.289881+00:00",
+  "rollbackCommit": "3d4217ed8598dcf8260ceac86066e123e4dc962b",
+  "rollbackBranch": "rollback/pre-direct-genesis-2026-11-14",
   "assets": [
     {
       "path": "arena.svg",
@@ -29,14 +38,14 @@
       "bytes": 2343
     },
     {
-      "path": "assets/V3Arena-JA5DB52v.js",
-      "sha256": "eefb1df5fa9b0df7406f7f6f8ac145db1f49c2fb34e57373244b56bac952ffb0",
-      "bytes": 18768
+      "path": "assets/V3Arena-DvSoH8jW.js",
+      "sha256": "88ba799c2befe36de5458726a4a6aeecb829a072424bc25287f58bdd91fedf89",
+      "bytes": 20309
     },
     {
-      "path": "assets/app-entry-2y-DUsMX.js",
-      "sha256": "17bd5fbfbb6cd1edf7905c0d2d117ab3072b1ba8d869e7e8fb9bdaf7bb2f7440",
-      "bytes": 785090
+      "path": "assets/app-entry-BBX8p91t.js",
+      "sha256": "ffed22ed791a3d402ec2f341572f8442ee5e22b751ce7380a6cac04437ac4f20",
+      "bytes": 785061
     },
     {
       "path": "assets/app-entry-CSVIGMzA.css",
@@ -59,8 +68,8 @@
       "bytes": 282435
     },
     {
-      "path": "assets/index-C5mEkRE-.js",
-      "sha256": "7370099d1d041489ddeb71f32ba876dfe7db3d9b350c7004dd1ffef5b0f17108",
+      "path": "assets/index-BXpnvlhd.js",
+      "sha256": "033244236739cfa02ebceae10eb7ebaeb38e1c95484bdfa3759444f2a715aa49",
       "bytes": 1777
     },
     {
@@ -104,14 +113,14 @@
       "bytes": 599
     },
     {
-      "path": "assets/v3.worker-DUTsgANd.js",
-      "sha256": "99dbed3d0ee89b04051702bf655b315bac3cc8652c904cce47d94133e29debf3",
-      "bytes": 711971
+      "path": "assets/v3.worker-DbWjjVvR.js",
+      "sha256": "0f93622459960f17d7ed8327ef0186a4177b4387799815379888937e4320f901",
+      "bytes": 719012
     },
     {
-      "path": "assets/v3Client-Bd5SvBLA.js",
-      "sha256": "8572efe4568bad23dce8c2c6f2a887fe991acd7688244a1e93f7bba49e6fae61",
-      "bytes": 2369
+      "path": "assets/v3Client-h4VP1e-E.js",
+      "sha256": "415e40da163c6f96c4c4184de32abf22fde1934f7a8b65fb64d64c15e3886807",
+      "bytes": 2340
     },
     {
       "path": "assets/wallet-CPjthZGA.js",
@@ -125,7 +134,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "5a867523645e47592e5d397999c7b3733e2c7af43a5dbfde85c74baca4281acb",
+      "sha256": "aa300e84188803a6b072c0c26f888000b89f56bd44a82ccf963041c9a59fa36d",
       "bytes": 1214
     }
   ]
